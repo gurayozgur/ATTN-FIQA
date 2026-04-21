@@ -60,7 +60,9 @@ Download the pretrained ViT-S face recognition model from [here]() and place it 
 3. Run ERC evaluation scripts to reproduce quality-performance analyses.
 
 ## Citation
+```
 
+```
 
 ## License
 
