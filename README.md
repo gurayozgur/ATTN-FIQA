@@ -49,7 +49,7 @@ Place the required pre-trained model files in the `pretrained/` directory. Commo
 Download the pretrained ViT-B face recognition model from [CVL-Face](https://huggingface.co/minchul/cvlface_adaface_vit_base_webface4m) and place it in the `pretrained/` directory:
 - `minchul_cvlface_adaface_vit_base_webface4m.pt`
 
-Download the pretrained ViT-S face recognition model from [here]() and place it in the `pretrained/` directory:
+Download the pretrained ViT-S face recognition model from [here](https://drive.google.com/drive/folders/1rFobDQqPv8njRdDOtg8AGAipInrpXHGp?usp=drive_link) and place it in the `pretrained/` directory:
 - `vits_wf4m_adaface.pt`
 - `vits_wf4m_arcface.pt`
 
