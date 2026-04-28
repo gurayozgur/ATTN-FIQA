@@ -1,6 +1,6 @@
 # ATTN-FIQA: Interpretable Attention-based Face Image Quality Assessment with Vision Transformers
 
-This repository contains the official implementation of the paper **"[ATTN-FIQA: Interpretable Attention-based Face Image Quality Assessment with Vision Transformers]()"**, accepted at FG2026.
+This repository contains the official implementation of the paper **"[ATTN-FIQA: Interpretable Attention-based Face Image Quality Assessment with Vision Transformers](https://arxiv.org/pdf/2604.22841)"**, accepted at FG2026.
 
 ## Overview
 
@@ -61,7 +61,15 @@ Download the pretrained ViT-S face recognition model from [here](https://drive.g
 
 ## Citation
 ```
-
+@misc{ozgur2026attnfiqainterpretableattentionbasedface,
+      title={ATTN-FIQA: Interpretable Attention-based Face Image Quality Assessment with Vision Transformers}, 
+      author={Guray Ozgur and Tahar Chettaoui and Eduarda Caldeira and Jan Niklas Kolf and Marco Huber and Andrea Atzori and Naser Damer and Fadi Boutros},
+      year={2026},
+      eprint={2604.22841},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2604.22841}, 
+}
 ```
 
 ## License
