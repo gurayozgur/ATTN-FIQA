@@ -2,6 +2,12 @@
 
 This repository contains the official implementation of the paper **"[ATTN-FIQA: Interpretable Attention-based Face Image Quality Assessment with Vision Transformers](https://arxiv.org/pdf/2604.22841)"**, accepted at FG2026.
 
+## Poster
+<p align="center">
+    <img src="assets/ATTN_FIQA_POSTER.png" alt="ATTN-FIQA Poster" width="80%">
+    <br>
+</p>
+
 ## Overview
 
 **ATTN-FIQA** is a training-free Face Image Quality Assessment (FIQA) method that uses **pre-softmax self-attention scores** from pre-trained Vision Transformer (ViT) face recognition models.
